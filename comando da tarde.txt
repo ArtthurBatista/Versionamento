@@ -1,0 +1,8 @@
+C:\Users\24153534\Documents\Tarde>git clone https://github.com/ArtthurBatista/Versionamento
+Cloning into 'Versionamento'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), 89.81 KiB | 195.00 KiB/s, done.
+
